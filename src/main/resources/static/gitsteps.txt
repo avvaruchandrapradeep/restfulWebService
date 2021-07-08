@@ -4,3 +4,6 @@ git commit -m "commitmessage"
 git remote add origin <remote-repository link>
 git remote -v
 git push origin master
+
+
+yes
