@@ -1,6 +1,8 @@
-git init
-git add .
-git commit -m "commitmessage"
-git remote add origin <remote-repository link>
-git remote -v
-git push origin master
+Step1: gigit init
+Step2: git add .
+Step3: git commit -m "commitmessage"
+Step4: git remote add origin <remote-repository link>
+Step5: git remote -v
+step6: git push origin master
+
+here in step4 origin is the name, so we have to change it whenever we are updating the commit
